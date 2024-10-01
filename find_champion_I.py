@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def findChampion(self, grid: List[List[int]]) -> int:
         n = len(grid)
@@ -11,3 +13,4 @@ class Solution:
 
         return champion
     #comment
+    #ok
